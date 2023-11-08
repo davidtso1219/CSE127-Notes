@@ -1,4 +1,4 @@
-iim# Lecture 7
+# Lecture 7
 
 ## Key Secure Design Principals
 
