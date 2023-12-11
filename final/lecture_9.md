@@ -61,8 +61,9 @@
 - Goal: validate messsage integrity based on a shared secret
 - A function that takes a message and a key
 - impractical to forge without the key
+- The sender will send m || a to show integrity
 
-## Symmetric Cryptography
+## Symmetric Encryption
 
 - pros: C
 - cons: no I/A, impractical to share large secrets
