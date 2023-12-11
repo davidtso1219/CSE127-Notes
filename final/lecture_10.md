@@ -59,7 +59,7 @@
 
 - Root CA signs keys for Intermediate CAs, which in turn sign keys for users (or other intermediate CAs)
 
-  <img src="images/10_2.png" height="150ch" alt="Process Memory Layout"></img>
+  <img src="images/10_2.png" height="200ch" alt="Process Memory Layout"></img>
 
 ## Certificate Revocation
 
