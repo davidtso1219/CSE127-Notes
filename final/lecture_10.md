@@ -15,7 +15,7 @@
 - One challenge is to get the public key
 - A MitM attacker can impersonate each party to the other
 
-  <img src="images/10_1.png" height="75ch" alt="Process Memory Layout"></img>
+  <img src="images/10/1.png" height="75ch" alt="Process Memory Layout"></img>
 
 ### Sol 1: Using A Trusted Intermediary
 
@@ -59,7 +59,7 @@
 
 - Root CA signs keys for Intermediate CAs, which in turn sign keys for users (or other intermediate CAs)
 
-  <img src="images/10_2.png" height="200ch" alt="Process Memory Layout"></img>
+  <img src="images/10/2.png" height="200ch" alt="Process Memory Layout"></img>
 
 ## Certificate Revocation
 

@@ -22,26 +22,26 @@
 
 1. Network Attacker
 
-   <img src="images/11_1.png" height="100ch" alt="Process Memory Layout"></img>
+   <img src="images/11/1.png" height="100ch" alt="Process Memory Layout"></img>
 
 2. Web Attacker
 
-   <img src="images/11_2.png" height="100ch" alt="Process Memory Layout"></img>
+   <img src="images/11/2.png" height="100ch" alt="Process Memory Layout"></img>
 
 3. Gadgets Attacker
 
-   <img src="images/11_3.png" height="150ch" alt="Process Memory Layout"></img>
+   <img src="images/11/3.png" height="150ch" alt="Process Memory Layout"></img>
 
 ### Web Attacker Variants
 
-<img src="images/11_4.png" height="200ch" alt="Process Memory Layout"></img>
+<img src="images/11/4.png" height="200ch" alt="Process Memory Layout"></img>
 
 ## Web Security Model
 
 - Browsers are like operating systems
 - Need to isolate different activities
 
-  <img src="images/11_5.png" height="150ch" alt="Process Memory Layout"></img>
+  <img src="images/11/5.png" height="150ch" alt="Process Memory Layout"></img>
 
 ### Same Origin Policy (SOP)
 
@@ -79,7 +79,7 @@
   - path: a prefix of the URL path
 - Examples
 
-  <img src="images/11_6.png" height="200ch" alt="Process Memory Layout"></img>
+  <img src="images/11/6.png" height="200ch" alt="Process Memory Layout"></img>
 
 ### Problem #1
 
@@ -95,8 +95,8 @@
   - **None**: send cookie without taking context into account.
 - Lax Examples
 
-  <img src="images/11_7.png" height="200ch" alt="Process Memory Layout"></img>
-  <img src="images/11_8.png" height="200ch" alt="Process Memory Layout"></img>
+  <img src="images/11/7.png" height="200ch" alt="Process Memory Layout"></img>
+  <img src="images/11/8.png" height="200ch" alt="Process Memory Layout"></img>
 
 ### Secure Cookie
 

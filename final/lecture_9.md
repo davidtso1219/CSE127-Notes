@@ -95,20 +95,20 @@
 - encrypt/decrypt each block separately
 - cons: not so good at hiding the patterns
 
-  <img src="images/9_1.png" height="300ch" alt="Process Memory Layout"></img>
+  <img src="images/9/1.png" height="300ch" alt="Process Memory Layout"></img>
 
 #### Cipher Block Chaining (CBC) Mode
 
 - XOR c block into next m
 - cons: not so good at hiding the patterns if attacker knows IV and m
 
-  <img src="images/9_2.png" height="300ch" alt="Process Memory Layout"></img>
+  <img src="images/9/2.png" height="300ch" alt="Process Memory Layout"></img>
 
 #### Counter Mode (CTR) Mode
 
 - Encrypt successive counter values and XOR with m
 
-  <img src="images/9_3.png" height="300ch" alt="Process Memory Layout"></img>
+  <img src="images/9/3.png" height="300ch" alt="Process Memory Layout"></img>
 
 ## Assymetric Cryptography
 
@@ -135,11 +135,11 @@
 
 ## Symmetric Primitives
 
-<img src="images/9_4.png" height="100ch" alt="Process Memory Layout"></img>
+<img src="images/9/4.png" height="100ch" alt="Process Memory Layout"></img>
 
 ## Assymmetric Primitives
 
-<img src="images/9_5.png" height="150ch" alt="Process Memory Layout"></img>
+<img src="images/9/5.png" height="150ch" alt="Process Memory Layout"></img>
 
 ## Notes
 
